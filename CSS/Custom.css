@@ -279,7 +279,7 @@ color: tomato;
   display: none;
 }
 }
-@media only screen and (max-width:756px){
+@media only screen and (max-width:456px){
   /*footer*/
   #Nav{
     display: none;
@@ -398,6 +398,6 @@ color: tomato;
   margin-bottom: 15px;
 }
 .myNav{
-  margin-left: 180px;
+  margin-left: 80px;
 }
 }
