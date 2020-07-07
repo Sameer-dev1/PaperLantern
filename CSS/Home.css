@@ -245,7 +245,7 @@ padding-top: 80px;
     }
 }
 /* Mobile friendly*/
-@media only screen and (max-width:756px){
+@media only screen and (max-width:456px){
     /* section-1*/
     #Nav{
         margin-left: 0;
@@ -402,6 +402,6 @@ padding-top: 80px;
     margin-top: 20px;
 }
 .myNav{
-    margin-left: 180px;
+    margin-left: 80px;
   }
 }
